@@ -334,7 +334,10 @@ Registeration Number :
 
 ## OUTPUT
 
+![1](https://github.com/user-attachments/assets/d06c82bc-37f1-47ac-9da4-5d3a32ac4fa6)
 
+![2](https://github.com/user-attachments/assets/b931a63e-be29-4bdb-86c8-a5a73c69643d)
 
 
 ## RESULT
+Development of application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio is successfull
